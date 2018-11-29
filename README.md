@@ -46,7 +46,7 @@ npm test
                "url":"https://www.devroom.io/2010/12/24/public-readable-amazon-s3-bucket-policy/"
           }
 
-### Responce: 
+### Response: 
 
      {
           "hash": "2DQsV5d",
