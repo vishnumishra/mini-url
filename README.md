@@ -27,8 +27,8 @@ This app was originally generated on Thu Nov 29 2018 11:52:48 GMT+0530 (IST) usi
 ## Run the server:
 
 ``` 
-git clone 
-cd miniUrl
+git clone  https://github.com/vishnumishra/mini-url.git
+cd mini-url
 npm i
 node app.js
 ```
