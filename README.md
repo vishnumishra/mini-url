@@ -38,3 +38,25 @@ node app.js
 npm test
 
 
+## Shortner API
+### Request:      
+     method:  'POST'
+     url:   'http://localhost:1337/miniurl'
+     body:  {
+               "url":"https://www.devroom.io/2010/12/24/public-readable-amazon-s3-bucket-policy/"
+          }
+
+### Responce: 
+
+     {
+          "hash": "2DQsV5d",
+          "new_hash": 0,
+          "createdAt": 1543477955373,
+          "updatedAt": 1543477955373,
+          "id": 1,
+          "long_url": "https://www.devroom.io/2010/12/24/public-readable-amazon-s3-bucket-policy/",
+          "global_hash": "2gwtOTi",
+          "url": "http://bit.ly/2DQsV5d",
+          "ip": "::1"
+     }
+
